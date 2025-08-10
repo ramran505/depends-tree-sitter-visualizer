@@ -22,8 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-./youtube-dl
-./tree-sitter-python
+youtube-dl
+tree-sitter-python
 .vscode
 output
 output-python
